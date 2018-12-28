@@ -125,14 +125,23 @@
 .padding-big-heght {
   padding: 2.4em 0 2.4em 0;
 }
-.padding-small-heght {
-  padding: 0.2em 0 0.2em 0;
-}
 .padding-big-top {
   padding-top: 2.4em;
 }
 .padding-big-bottom {
   padding-bottom: 2.4em;
+}
+.padding-average-heght {
+  padding: 1.2em 0 1.2em 0;
+}
+.padding-average-top {
+  padding-top: 1.2em;
+}
+.padding-average-bottom {
+  padding-bottom: 1.2em;
+}
+.padding-small-heght {
+  padding: 0.2em 0 0.2em 0;
 }
 .padding-small-top {
   padding-top: 0.5em;
@@ -153,31 +162,6 @@
   -ms-transform: translate(0, -50%);
   -o-transform: translate(0, -50%);
   transform: translate(0, -50%);
-}
-/* ОБОИ --------------------------------------------------------------*/
-.menu-section-text {
-  background: url(../img/menu-bg.jpg) center center no-repeat fixed;
-  background-size: cover;
-}
-.menu-overlay-text {
-  padding: 80px 0;
-  background: rgba(255,255,255,0.75);
-}
-.portfolio-section-text {
-  background: url(../img/gallery-bg.jpg) center center no-repeat fixed;
-  background-size: cover;
-}
-.portfolio-overlay-text {
-  padding: 80px 0;
-  background: rgba(255,255,255,0.75);
-}
-.team-section-text {
-  background: url(../img/team-bg.jpg) center center no-repeat fixed;
-  background-size: cover;
-}
-.team-overlay-text {
-  padding: 80px 0;
-  background: rgba(255,255,255,0.75);
 }
 /* ВЫРАВНИВАНИЕ ТЕКСТА -----------------------------------------------*/
 .justify-last-center {
